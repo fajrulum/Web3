@@ -1,5 +1,5 @@
 <?php
-class Model_Latihan1 extends CI_Model
+class Model_latihan1 extends CI_Model
 {
     //membuat variabel untuk menampung nilai
     public $nilai1, $nilai2, $hasil;
