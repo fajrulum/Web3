@@ -34,7 +34,7 @@
      <div class="card-body p-0">
       <!-- Nested Row within Card Body -->
       <div class="row">
-        <div class="col-lg-6 d-none d-lg-block bg-loginimage"></div>
+        <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
           <div class="col-lg-6">
             <div class="p-5">
               <div class="text-center">
@@ -57,11 +57,11 @@
                       for="customCheck">Remember Me</label>
                   </div>
                 </div>
-                <a href="index.html" class="btn btn-primary btnuser btn-block">
+                <a href="index.html" class="btn btn-primary btn-user btn-block">
                   Login
                 </a>
                 <hr>
-                <a href="index.html" class="btn btn-google btnuser btn-block">
+                <a href="index.html" class="btn btn-google btn-user btn-block">
                   <i class="fab fa-google fa-fw"></i> Login with Google
                 </a>
                 <a href="index.html" class="btn btn-facebook 
@@ -71,7 +71,7 @@
               </form>
               <hr>
               <div class="text-center">
-                <a class="small" href="forgotpassword.html">Forgot Password?</a>
+                <a class="small" href="forgot-password.html">Forgot Password?</a>
               </div>
               <div class="text-center">
                 <a class="small" href="register.html">Create an Account!</a>
